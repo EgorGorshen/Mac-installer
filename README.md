@@ -6,5 +6,4 @@
 4. terminal theme 
 5. cargo 
 6. neovim 
-7. tmux 
 
